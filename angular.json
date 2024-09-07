@@ -14,7 +14,7 @@
           "builder": "@angular-devkit/build-angular:application",
           "options": {
             "outputPath": "dist/test-task-usense",
-            "baseHref": "https://brrs.github.io/test-task-usense/",
+            "baseHref": "/test-task-usense/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
